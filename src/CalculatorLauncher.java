@@ -1,3 +1,5 @@
 public class CalculatorLauncher {
-    System.out.println("Coming soon!");
+    public static void main(String[] args) {
+        System.out.println("Coming soon!");
+    }
 }
