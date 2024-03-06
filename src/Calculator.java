@@ -9,4 +9,14 @@ public class Calculator {
         int difference = a - b;
         return difference;
     }
+
+    public int divide(int a, int b){
+        int quotient = a/b;
+        return quotient;
+    }
+
+    public int multiply(int a, int b){
+        int product = a*b;
+        return product;
+    }
 }
